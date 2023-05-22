@@ -1,5 +1,4 @@
 # SaaSAI
-Directory for my saas project
 This project is created using the api of Open AI.
 I have added three sections in this web app, given as follows:
 1. Text Generation.
