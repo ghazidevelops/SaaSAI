@@ -1,5 +1,5 @@
 # SaaSAI
-This project is created using the api of Open AI.
+This project is created using the Api of Open AI.
 I have added three sections in this web app, given as follows:
 1. Text Generation.
 2. Code generation.
