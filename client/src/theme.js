@@ -1,4 +1,5 @@
 export const colorTokens = {
+    
     grey: {
       0: "#FFFFFF",
       10: "#F6F6F6",
@@ -44,6 +45,7 @@ export const colorTokens = {
           light: colorTokens.grey[50],
         },
         background: {
+
           default: colorTokens.grey[10],
           alt: colorTokens.grey[0],
         },
